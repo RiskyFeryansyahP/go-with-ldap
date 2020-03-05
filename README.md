@@ -4,6 +4,9 @@
 
 ```
 go run main.go
+
+username: curie
+password: password
 ```
 
 `Server will running at localhost:8080`
